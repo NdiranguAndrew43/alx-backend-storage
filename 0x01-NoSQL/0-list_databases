@@ -1,0 +1,2 @@
+// Lists all MongDB databases
+show dbs;

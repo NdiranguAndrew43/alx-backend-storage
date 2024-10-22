@@ -1,0 +1,2 @@
+// Creates and changes to use the created db
+use my_db;
